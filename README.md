@@ -10,15 +10,35 @@ CodeQuest is your ultimate DSA (Data Structures & Algorithms) tracker and code o
 
 Whether you're preparing for coding interviews or sharpening your problem-solving skills, CodeQuest is your go-to platform!
 
-## 📸 Screenshots
-Here are some screenshots of the project:
+## 📸 Snapshots
 
-- ![CodeQuest_HomePage](Images/CodeQuest_HomePage.png)  
-- ![CodeQuest_TopicsPart](Images/CodeQuest_TopicsPart.png)
-- ![CodeQuest_QuestionsPage](Images/CodeQuest_QuestionsPage.png)
-- ![CodeQuest_Tutorials](Images/CodeQuest_Tutorials.png)
-- ![CodeQuest_CodeOptimizer](Images/CodeQuest_CodeOptimizer.png)
-- ![CodeQuest_ProgressTracker](Images/CodeQuest_ProgressTracker.png)
+**HomePage :**
+
+![CodeQuest_HomePage](Images/CodeQuest_HomePage.png)
+
+**TopicsPart :**
+
+![CodeQuest_TopicsPart](Images/CodeQuest_TopicsPart.png)
+
+**QuestionsPage :**
+
+![CodeQuest_QuestionsPage](Images/CodeQuest_QuestionsPage.png)
+
+**Tutorials :**
+
+![CodeQuest_Tutorials](Images/CodeQuest_Tutorials.png)
+
+**CodeOptimizer :**
+
+![CodeQuest_CodeOptimizer](Images/CodeQuest_CodeOptimizer.png)
+
+**ProgressTracker :**
+
+![CodeQuest_ProgressTracker](Images/CodeQuest_ProgressTracker.png)
+
+
+
+
 
 ## 🚀 Installation & Setup
 Clone the repository and install dependencies:

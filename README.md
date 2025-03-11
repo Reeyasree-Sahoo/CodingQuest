@@ -13,7 +13,7 @@ Whether you're preparing for coding interviews or sharpening your problem-solvin
 ## 📸 Screenshots
 Here are some screenshots of the project:
 
-- ![CodeQuest_HomePage]([/Users/reeyasreesahoo/Desktop/CodeQuest_HomePage.png](https://github.com/Reeyasree-Sahoo/CodingQuest/blob/main/Images/CodeQuest_CodeOptimizer.png))  
+- ![CodeQuest_HomePage](Images/CodeQuest_HomePage.png)  
 - ![CodeQuest_TopicsPart](/Users/reeyasreesahoo/Desktop/CodeQuest_TopicsPart.png)
 - ![CodeQuest_QuestionsPage](/Users/reeyasreesahoo/Desktop/CodeQuest_QuestionsPage.png)
 - ![CodeQuest_Tutorials](/Users/reeyasreesahoo/Desktop/CodeQuest_Tutorials.png)

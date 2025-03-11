@@ -19,6 +19,7 @@ Here are some screenshots of the project:
 - ![CodeQuest_Tutorials](/Users/reeyasreesahoo/Desktop/CodeQuest_Tutorials.png)
 - ![CodeQuest_CodeOptimizer](/Users/reeyasreesahoo/Desktop/CodeQuest_CodeOptimizer.png)
 - ![CodeQuest_ProgressTracker](/Users/reeyasreesahoo/Desktop/CodeQuest_ProgressTracker.png)
+- ![CodeQuest_HomePage](https://github.com/Reeyasree-Sahoo/CodingQuest/blob/main/Users/reeyasreesahoo/Desktop/CodeQuest_HomePage.png)
 
 ## 🚀 Installation & Setup
 Clone the repository and install dependencies:

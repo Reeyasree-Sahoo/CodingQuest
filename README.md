@@ -14,11 +14,11 @@ Whether you're preparing for coding interviews or sharpening your problem-solvin
 Here are some screenshots of the project:
 
 - ![CodeQuest_HomePage](Images/CodeQuest_HomePage.png)  
-- ![CodeQuest_TopicsPart](/Users/reeyasreesahoo/Desktop/CodeQuest_TopicsPart.png)
-- ![CodeQuest_QuestionsPage](/Users/reeyasreesahoo/Desktop/CodeQuest_QuestionsPage.png)
-- ![CodeQuest_Tutorials](/Users/reeyasreesahoo/Desktop/CodeQuest_Tutorials.png)
-- ![CodeQuest_CodeOptimizer](/Users/reeyasreesahoo/Desktop/CodeQuest_CodeOptimizer.png)
-- ![CodeQuest_ProgressTracker](/Users/reeyasreesahoo/Desktop/CodeQuest_ProgressTracker.png)
+- ![CodeQuest_TopicsPart](Images/CodeQuest_TopicsPart.png)
+- ![CodeQuest_QuestionsPage](Images/CodeQuest_QuestionsPage.png)
+- ![CodeQuest_Tutorials](Images/CodeQuest_Tutorials.png)
+- ![CodeQuest_CodeOptimizer](Images/CodeQuest_CodeOptimizer.png)
+- ![CodeQuest_ProgressTracker](Images/CodeQuest_ProgressTracker.png)
 
 ## 🚀 Installation & Setup
 Clone the repository and install dependencies:
